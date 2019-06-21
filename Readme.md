@@ -7,6 +7,9 @@
 * [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
 <!-- default file list end -->
 # How to bind a control in EditForm template to XPObject enumerable field
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e2309/)**
+<!-- run online end -->
 
 
 <p>The example demonstrates how to use the XPObject with the enumerable field. The field is bound with the ASPxRadioButtonList control that performs conversions from items' values to the "enum" type.<br />
